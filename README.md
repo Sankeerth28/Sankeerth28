@@ -84,14 +84,16 @@
 
  ---
 
- ### 🚀 Featured Projects
+### 🚀 Featured Projects
 
- | Project | Tech Stack | Highlights |
- |--------|------------|------------|
- | 🧠 [**ConsciousAI Journal**](https://github.com/Sankeerth28/conscious-ai-journal) | LangChain, Hugging Face, FAISS, Gradio | Empathetic AI journal with analytics & Q&A |
- | 🧠 [**Study Coach Bot**](https://github.com/Sankeerth28/study-coach-bot) | LangChain, OpenAI, Pinecone, MongoDB Vector Search | RAG-powered AI Q&A from PDFs |
- | 💪 [**FitBuddy**](https://github.com/Sankeerth28/FitBuddy-ChatBot) | BERT, GPT-2, Flask | Personalized fitness chatbot with 92% accuracy |
- | 🎥 [**SmartCam**](https://github.com/Sankeerth28/Classroom-Attention-Monitering-System) | MediaPipe, OpenCV | Real-time student attention tracker |
+| Project | Tech Stack | Highlights |
+|----------|-------------|-------------|
+| 🧩 [**Company Brain — Agentic AI**](https://github.com/Sankeerth28/company-brain-agentic-ai) | Streamlit, Sentence-Transformers, OpenAI (mock/live), Local RAG | 48-hour hackathon MVP that combines local document retrieval, reasoning, and actionable next steps with mock/live LLM modes. |
+| 🧠 [**ConsciousAI Journal**](https://github.com/Sankeerth28/conscious-ai-journal) | LangChain, Hugging Face, FAISS, Gradio | Empathetic AI journal with analytics & Q&A |
+| 🧠 [**Study Coach Bot**](https://github.com/Sankeerth28/study-coach-bot) | LangChain, OpenAI, Pinecone, MongoDB Vector Search | RAG-powered AI Q&A from PDFs |
+| 💪 [**FitBuddy**](https://github.com/Sankeerth28/FitBuddy-ChatBot) | BERT, GPT-2, Flask | Personalized fitness chatbot with 92% accuracy |
+| 🎥 [**SmartCam**](https://github.com/Sankeerth28/Classroom-Attention-Monitering-System) | MediaPipe, OpenCV | Real-time student attention tracker |
+
 
  ---
 
