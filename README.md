@@ -1,113 +1,182 @@
 <div align="center">
 
-# Hey there, I'm Sankeerth Naidu 👋
+# Hi, I'm Sankeerth Naidu 👋
 
-### 🤖 AI/ML Engineer · GenAI Builder · CS Undergrad @ LPU
+### Machine Learning Engineer · Generative AI · RAG · NLP
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankeerthnaidu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sankeerth28)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankeerth2004@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9068-8042)
+<p>
+  <a href="https://www.linkedin.com/in/sankeerthnaidu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sankeerth28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:sankeerth2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0001-9068-8042">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science undergrad at Lovely Professional University** obsessed with one question: *how do we make AI that actually thinks, remembers, and helps?*
+I'm a **Computer Science graduate from Lovely Professional University** focused on building practical Machine Learning and Generative AI systems.
 
-My world revolves around **Generative AI, LLMs, RAG pipelines, and NLP** — building systems that go beyond simple inputs and outputs to reason, retrieve, and respond meaningfully. Whether it's architecting an agentic AI at a hackathon or training a computer vision model to read a classroom in real time, I'm driven by the belief that the best AI feels invisible — it just *works*.
+My primary interests are **Machine Learning, NLP, LLM applications, RAG systems, and AI engineering**. I enjoy taking an idea from a model or algorithm and turning it into a usable application through APIs, vector databases, retrieval pipelines, and deployment.
 
-When I'm not pushing commits, I'm writing about AI on LinkedIn, co-organizing developer meetups with **Google for Developers**, or hunting for the next interesting paper to tear apart over coffee ☕.
+Currently, I'm strengthening my foundations in **ML theory, Python, DSA, system design for AI applications, and production-oriented GenAI engineering** while building projects that demonstrate those skills.
 
-- 🔭 Currently building: **RAG-powered AI applications** and exploring **agentic architectures**
-- 🌱 Deep-diving into: **LangChain Agents, Prompt Engineering, Vector Databases**
-- 💬 Ask me about: **LLMs, RAG, LangChain, Computer Vision, ML pipelines**
-- 📍 Based in Hyderabad, Telangana, India
+* 🔭 Building: **RAG, Agentic AI, and ML applications**
+* 🧠 Learning: **LLM systems, AI agents, model evaluation, and ML engineering**
+* 💬 Interested in: **Machine Learning · NLP · RAG · LLMs · AI Engineering**
+* 📍 India
+* 🎯 Open to: **ML Engineer · AI Engineer · Applied AI · GenAI Engineer · ML Intern roles**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-**Generative AI & NLP**
-`LLMs (GPT, BERT, T5, Flan-T5, BART)` · `RAG Pipelines` · `LangChain Agents` · `Prompt Engineering` · `Tokenization` · `Fine-tuning` · `Transfer Learning`
+### Machine Learning
 
-**Machine Learning**
-`Regression & Classification` · `Feature Engineering` · `Random Forest` · `Gradient Boosting` · `Hyperparameter Tuning`
+`Scikit-learn` · `Regression` · `Classification` · `Clustering` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning` · `Random Forest` · `Gradient Boosting`
 
-**Computer Vision**
-`CNNs` · `OpenCV` · `MediaPipe` · `Behavior Detection` · `Image Processing`
+### Deep Learning & NLP
 
-**Frameworks & Tools**
-`TensorFlow` · `Keras` · `Scikit-Learn` · `Hugging Face` · `Pinecone` · `FAISS` · `SentenceTransformers` · `Streamlit` · `Gradio`
+`PyTorch` · `TensorFlow` · `Keras` · `Transformers` · `BERT` · `T5` · `Flan-T5` · `BART` · `Sentence Transformers`
 
-**Languages**
-`Python` · `Java` · `SQL`
+### Generative AI
+
+`LLMs` · `RAG` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `LangChain` · `LlamaIndex` · `FAISS` · `ChromaDB` · `Pinecone`
+
+### AI Engineering
+
+`Python` · `FastAPI` · `Streamlit` · `Gradio` · `REST APIs` · `Docker` · `Git` · `GitHub`
+
+### Data & Computer Vision
+
+`NumPy` · `Pandas` · `Matplotlib` · `OpenCV` · `MediaPipe` · `SQL`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 [Company Brain — Agentic AI](https://github.com/Sankeereth28/company-brain-agentic-ai) · [Live Demo](https://company-brain-agentic-ai.streamlit.app/)
-> *Built in 48 hours at a hackathon · Oct 2025*
+### 🧠 [Inspire R&D](https://github.com/Sankeerth28/Inspire-RnD)
 
-A **local RAG-powered AI agent** that combines document retrieval, multi-step reasoning, and task planning. Uses **SentenceTransformers + FAISS** for contextual embeddings and a clean **Streamlit** interface for document ingestion and interactive querying. The goal: give any company a "brain" that knows its own data.
+**AI-powered research and patent intelligence system**
 
-`Python` · `Streamlit` · `SentenceTransformers` · `FAISS` · `OpenAI API`
+Built a backend-oriented AI system for discovering and analyzing similar research/patent content using semantic embeddings and clustering.
 
----
+**Highlights**
 
-### 📓 [ConsciousAI Journal — Intelligent Mental Health Companion](https://github.com/Sankeereth28/ConsciousAI_Journal)
-> *June 2025*
+* Built a FastAPI-based backend
+* Used `multilingual-e5-large` for semantic embeddings
+* Implemented semantic similarity scoring
+* Applied K-Means clustering to organize related content
+* Designed the system around retrieval and similarity-based research workflows
 
-An **emotion-aware journaling app** that doesn't just store your thoughts — it *understands* them. Built vector-based memory retrieval with **LangChain + FAISS** so the AI remembers past entries and generates empathetic, contextually grounded responses. Emotional trend dashboards built with **Plotly** make patterns visible over time.
-
-`LangChain` · `FAISS` · `Flan-T5` · `BART` · `Gradio` · `Plotly`
-
----
-
-### 📚 [Study Coach Bot — RAG PDF Q&A](https://github.com/Sankeereth28/study-coach-bot)
-> *June 2025*
-
-A **GenAI-powered study assistant** that lets you drop in any PDF and have a conversation with it. Retrieves relevant passages using RAG and answers questions using LLMs — making dense documents actually navigable.
-
-`RAG` · `LLMs` · `Streamlit` · `Python`
+`Python` · `FastAPI` · `SentenceTransformers` · `K-Means` · `NLP`
 
 ---
 
-### 🎓 [SmartCam — Real-Time Classroom Attention Monitor](https://github.com/Sankeereth28/Classroom-Attention-Monitering-System)
-> *Jan – May 2025*
+### 🤖 [Company Brain — Agentic AI](https://github.com/Sankeerth28/company-brain-agentic-ai)
 
-A **computer vision system** that classifies 9 distinct student engagement behaviors from live webcam feeds in real time. Achieved **87% detection accuracy** with a MediaPipe + CNN + ML classifier pipeline, optimized to run at **12 FPS on CPU** — no GPU required, deployable in any classroom.
+**RAG-powered AI system for querying company knowledge**
 
-`TensorFlow` · `MediaPipe` · `OpenCV` · `Scikit-learn` · `Python`
+Built a document-aware AI application that combines semantic retrieval with LLM-based reasoning to answer questions over company information.
+
+**Highlights**
+
+* Implemented document ingestion and retrieval
+* Generated semantic embeddings using Sentence Transformers
+* Used FAISS for vector similarity search
+* Connected retrieved context to an LLM
+* Built an interactive Streamlit interface
+
+`Python` · `RAG` · `SentenceTransformers` · `FAISS` · `Streamlit`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)](https://company-brain-agentic-ai.streamlit.app/)
 
 ---
 
-### 💪 [FitBuddy — AI Fitness Chatbot](https://github.com/Sankeereth28/FitBuddy-ChatBot)
-> *Aug – Nov 2024*
+### 📓 [ConsciousAI Journal](https://github.com/Sankeerth28/ConsciousAI_Journal)
 
-A conversational fitness assistant powered by **BERT and GPT-2**, helping users with personalized workout and nutrition guidance through natural language.
+**Memory-enabled AI journaling application**
 
-`BERT` · `GPT-2` · `Python`
+Built an AI journaling system that combines conversational generation with retrieval-based memory so previous journal entries can be used as contextual information.
+
+**Highlights**
+
+* Implemented semantic memory retrieval
+* Used FAISS for vector search
+* Integrated LangChain-based retrieval workflows
+* Generated context-aware responses
+* Added emotional trend visualization
+
+`Python` · `LangChain` · `FAISS` · `Flan-T5` · `BART` · `Gradio` · `Plotly`
 
 ---
 
-### 🫁 [Lung Cancer Detection via Image Processing](https://github.com/Sankeereth28/Lung-Cancer-Detection-ImageProcessing)
-> *Sep – Nov 2023*
+### 📚 [Study Coach Bot](https://github.com/Sankeerth28/study-coach-bot)
 
-A deep learning pipeline using **ResNet50** to detect lung cancer from medical imagery — one of my earliest explorations into applied computer vision for healthcare.
+**RAG-based PDF question-answering system**
 
-`ResNet50` · `TensorFlow` · `Jupyter`
+Built a document Q&A application that allows users to upload study material and ask questions using retrieval-augmented generation.
+
+**Highlights**
+
+* PDF ingestion and text processing
+* Semantic document retrieval
+* Context-aware question answering
+* Interactive Streamlit interface
+
+`Python` · `RAG` · `LLMs` · `Streamlit`
+
+---
+
+### 🎓 [SmartCam — Classroom Attention Monitoring](https://github.com/Sankeerth28/Classroom-Attention-Monitering-System)
+
+**Real-time computer vision system for classroom behavior analysis**
+
+Built a webcam-based computer vision pipeline for detecting different classroom engagement behaviors.
+
+**Highlights**
+
+* Real-time webcam processing
+* MediaPipe-based feature extraction
+* CNN/ML classification pipeline
+* Multiple behavioral classes
+* CPU-oriented inference optimization
+
+`Python` · `TensorFlow` · `OpenCV` · `MediaPipe` · `Scikit-learn`
+
+---
+
+### 💪 [FitBuddy — AI Fitness Chatbot](https://github.com/Sankeerth28/FitBuddy-ChatBot)
+
+Conversational fitness assistant combining NLP intent classification with generative responses.
+
+`Python` · `BERT` · `GPT-2` · `NLP`
 
 ---
 
 ## 💼 Experience
 
-**Machine Learning Intern** · *Internship Studio* · Mar – May 2024
+### Machine Learning Intern — Internship Studio
 
-Built and optimized regression models on a 1,500-sample dataset to predict YouTube ad views, achieving **R² = 0.82** and a **15% MAE reduction**. Improved performance by **17% over baseline** through feature engineering and ensemble methods (Random Forest + Gradient Boosting).
+**Mar 2024 – May 2024**
+
+Worked on machine learning models for predicting YouTube advertisement views.
+
+* Built regression pipelines using Python and Scikit-learn
+* Performed feature engineering and exploratory data analysis
+* Compared ensemble learning approaches
+* Worked with Random Forest and Gradient Boosting
+* Reported an R² score of **0.82** on the project dataset
 
 `Python` · `Scikit-learn` · `Pandas` · `NumPy`
 
@@ -115,69 +184,93 @@ Built and optimized regression models on a 1,500-sample dataset to predict YouTu
 
 ## 🎓 Education
 
-| Degree | Institution | Score | Year |
-|--------|------------|-------|------|
-| B.Tech, Computer Science & Engineering | Lovely Professional University, Punjab | CGPA: 6.9 | 2022 – Present |
-| 12th Science | Tirumala Jr. College, Rajahmundry | 78% | 2020 – 2022 |
-| 10th Science | DR K.K.R. Gowtham E.M. School, Rajahmundry | **98%** | 2019 – 2020 |
+**B.Tech — Computer Science & Engineering**
+Lovely Professional University
+**2022 – 2026**
+
+**12th — Science**
+Tirumala Junior College, Rajahmundry
+**78%**
+
+**10th — Science**
+DR K.K.R. Gowtham E.M. School, Rajahmundry
+**98%**
 
 ---
 
-## 📜 Certifications
+## 📜 Selected Certifications
 
-- 🏅 **Exploratory Data Analysis for Machine Learning** *(With Honors)* — IBM · Aug 2024
-- 🤖 **NLP with Classification and Vector Spaces** — DeepLearning.AI · Dec 2024 – Jun 2025
-- 🛠️ **Build AI Apps with ChatGPT, DALL-E, and GPT-4** — Scrimba · Feb – Apr 2024
-- 🔬 **ChatGPT Advanced Data Analysis** — Vanderbilt University · Apr 2024
-- 📊 **Machine Learning Internship** — Internship Studio · Apr – May 2024
-- 🧮 **Algorithms on Strings** — UC San Diego · Apr 2024
-- 📐 **Approximation Algorithms & Linear Programming** — University of Colorado Boulder · Apr 2024
-- 💻 **Introduction to Programming Using Java** — LearnQuest · Jan 2024
+* **Exploratory Data Analysis for Machine Learning** — IBM
+* **NLP with Classification and Vector Spaces** — DeepLearning.AI
+* **Algorithms on Strings** — University of California San Diego
+* **Approximation Algorithms & Linear Programming** — University of Colorado Boulder
+* **Introduction to Programming Using Java** — LearnQuest
 
 ---
 
-## 🏆 Achievements & Community
+## 🏆 Community & Activities
 
-- 🌐 **Co-organized "Building with AI" meetup** with Google for Developers — scaled the community to **1,500+ members** · May 2025
-- 💡 **Participated in Code Beyond Limits** by TFUG — solved real-world ML challenges · Nov 2024
-- 📝 **JEE Mains — 93rd Percentile** · Jul 2022
-- ✍️ **Active AI writer on LinkedIn** — articles on LLMs, memory architectures, Meta's LCM, and more
+* 🌐 Co-organized **Building with AI** developer meetup with Google for Developers
+* 👥 Helped grow the developer community to **1,500+ members**
+* 💡 Participated in **Code Beyond Limits** by TFUG
+* ✍️ Write about **AI, LLMs, memory architectures, and emerging AI research**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sankeerth28&theme=tokyonight&hide_border=true)](https://github.com/Sankeerth28)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankeerth28&theme=tokyonight&hide_border=true" />
 
-[![Sankeerth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sankeerth28&theme=tokyo-night&hide_border=true)](https://github.com/Sankeerth28)
+<br/>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sankeerth28/Sankeerth28/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sankeerth28/Sankeerth28/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sankeerth28/Sankeerth28/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankeerth28&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## ✍️ Latest Writing
+## 📚 Currently Learning
 
-- 📖 [Code That Thinks: Why Learning AI Is More Than Career Insurance](https://www.linkedin.com/in/sankeerthnaidu) · Dec 2025
-- 🧠 [The Amnesia Machine: Why Your AI Forgets Everything](https://www.linkedin.com/in/sankeerthnaidu) · Jul 2025
-- ⚡ [GPUHammer: The First Rowhammer Attack on NVIDIA GPUs](https://www.linkedin.com/in/sankeerthnaidu) · Jul 2025
-- 🗣️ [The Tale of the Talking Village: How End-to-End Learning Changed Everything](https://www.linkedin.com/in/sankeerthnaidu) · Jul 2025
+```text
+Machine Learning
+├── Mathematics & Statistics
+├── Model Evaluation
+├── Feature Engineering
+└── ML System Design
+
+Generative AI
+├── RAG
+├── Embeddings & Vector Search
+├── LLM Evaluation
+├── Agents
+└── Production AI Applications
+
+Software Engineering
+├── Python
+├── DSA
+├── FastAPI
+├── Docker
+└── APIs & Backend Systems
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in opportunities where I can work on **Machine Learning, Generative AI, NLP, and AI-powered products**.
+
+📧 **[sankeerth2004@gmail.com](mailto:sankeerth2004@gmail.com)**
+
+💼 [LinkedIn](https://www.linkedin.com/in/sankeerthnaidu)
+
+🐙 [GitHub](https://github.com/Sankeerth28)
 
 ---
 
 <div align="center">
 
-*"The best AI doesn't feel like technology — it feels like understanding."*
-
-**📫 Reach me at [sankeerth2004@gmail.com](mailto:sankeerth2004@gmail.com) · Let's build something worth remembering.**
+### *Build. Measure. Learn. Repeat.*
 
 </div>
