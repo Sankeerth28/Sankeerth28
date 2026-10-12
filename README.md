@@ -245,10 +245,7 @@ Worked on machine learning models for predicting YouTube advertisement views.
 
 <br/><br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Sankeerth28&theme=tokyo-night&hide_border=true&area=true"
-  alt="GitHub Activity Graph"
-/>
+<!-- Activity Graph temporarily disabled: upstream service returns HTTP 402 -->
 
 </div>
 
