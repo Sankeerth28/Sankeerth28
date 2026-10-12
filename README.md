@@ -2,7 +2,14 @@
 
 # Hi, I'm Sankeerth Naidu 👋
 
-### Machine Learning Engineer · Generative AI · RAG · NLP
+### Machine Learning Engineer · Generative AI · RAG · NLP · AI Systems
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+NLP;Building+Practical+AI+Systems;Turning+Models+into+Products"
+    alt="Typing animation"
+  />
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/sankeerthnaidu">
@@ -31,33 +38,33 @@ My primary interests are **Machine Learning, NLP, LLM applications, RAG systems,
 
 Currently, I'm strengthening my foundations in **ML theory, Python, DSA, system design for AI applications, and production-oriented GenAI engineering** while building projects that demonstrate those skills.
 
-* 🔭 Building: **RAG, Agentic AI, and ML applications**
-* 🧠 Learning: **LLM systems, AI agents, model evaluation, and ML engineering**
-* 💬 Interested in: **Machine Learning · NLP · RAG · LLMs · AI Engineering**
-* 📍 India
-* 🎯 Open to: **ML Engineer · AI Engineer · Applied AI · GenAI Engineer · ML Intern roles**
+- 🔭 Building: **RAG, Agentic AI, and ML applications**
+- 🧠 Learning: **LLM systems, AI agents, model evaluation, and ML engineering**
+- 💬 Interested in: **Machine Learning · NLP · RAG · LLMs · AI Engineering**
+- 📍 India
+- 🎯 Open to: **ML Engineer · AI Engineer · Applied AI · GenAI Engineer · ML Intern roles**
 
 ---
 
 ## 🧰 Technical Skills
 
-### Machine Learning
+### 🤖 Machine Learning
 
 `Scikit-learn` · `Regression` · `Classification` · `Clustering` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning` · `Random Forest` · `Gradient Boosting`
 
-### Deep Learning & NLP
+### 🧠 Deep Learning & NLP
 
 `PyTorch` · `TensorFlow` · `Keras` · `Transformers` · `BERT` · `T5` · `Flan-T5` · `BART` · `Sentence Transformers`
 
-### Generative AI
+### ✨ Generative AI
 
 `LLMs` · `RAG` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `LangChain` · `LlamaIndex` · `FAISS` · `ChromaDB` · `Pinecone`
 
-### AI Engineering
+### ⚙️ AI Engineering
 
 `Python` · `FastAPI` · `Streamlit` · `Gradio` · `REST APIs` · `Docker` · `Git` · `GitHub`
 
-### Data & Computer Vision
+### 📊 Data & Computer Vision
 
 `NumPy` · `Pandas` · `Matplotlib` · `OpenCV` · `MediaPipe` · `SQL`
 
@@ -69,15 +76,15 @@ Currently, I'm strengthening my foundations in **ML theory, Python, DSA, system 
 
 **AI-powered research and patent intelligence system**
 
-Built a backend-oriented AI system for discovering and analyzing similar research/patent content using semantic embeddings and clustering.
+Built a backend-oriented AI system for discovering and analyzing similar research and patent content using semantic embeddings and clustering.
 
 **Highlights**
 
-* Built a FastAPI-based backend
-* Used `multilingual-e5-large` for semantic embeddings
-* Implemented semantic similarity scoring
-* Applied K-Means clustering to organize related content
-* Designed the system around retrieval and similarity-based research workflows
+- Built a FastAPI-based backend
+- Used `multilingual-e5-large` for semantic embeddings
+- Implemented semantic similarity scoring
+- Applied K-Means clustering to organize related content
+- Designed the system around retrieval and similarity-based research workflows
 
 `Python` · `FastAPI` · `SentenceTransformers` · `K-Means` · `NLP`
 
@@ -91,15 +98,15 @@ Built a document-aware AI application that combines semantic retrieval with LLM-
 
 **Highlights**
 
-* Implemented document ingestion and retrieval
-* Generated semantic embeddings using Sentence Transformers
-* Used FAISS for vector similarity search
-* Connected retrieved context to an LLM
-* Built an interactive Streamlit interface
+- Implemented document ingestion and retrieval
+- Generated semantic embeddings using Sentence Transformers
+- Used FAISS for vector similarity search
+- Connected retrieved context to an LLM
+- Built an interactive Streamlit interface
 
 `Python` · `RAG` · `SentenceTransformers` · `FAISS` · `Streamlit`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)](https://company-brain-agentic-ai.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://company-brain-agentic-ai.streamlit.app/)
 
 ---
 
@@ -111,11 +118,11 @@ Built an AI journaling system that combines conversational generation with retri
 
 **Highlights**
 
-* Implemented semantic memory retrieval
-* Used FAISS for vector search
-* Integrated LangChain-based retrieval workflows
-* Generated context-aware responses
-* Added emotional trend visualization
+- Implemented semantic memory retrieval
+- Used FAISS for vector search
+- Integrated LangChain-based retrieval workflows
+- Generated context-aware responses
+- Added emotional trend visualization
 
 `Python` · `LangChain` · `FAISS` · `Flan-T5` · `BART` · `Gradio` · `Plotly`
 
@@ -129,10 +136,10 @@ Built a document Q&A application that allows users to upload study material and 
 
 **Highlights**
 
-* PDF ingestion and text processing
-* Semantic document retrieval
-* Context-aware question answering
-* Interactive Streamlit interface
+- PDF ingestion and text processing
+- Semantic document retrieval
+- Context-aware question answering
+- Interactive Streamlit interface
 
 `Python` · `RAG` · `LLMs` · `Streamlit`
 
@@ -146,11 +153,11 @@ Built a webcam-based computer vision pipeline for detecting different classroom 
 
 **Highlights**
 
-* Real-time webcam processing
-* MediaPipe-based feature extraction
-* CNN/ML classification pipeline
-* Multiple behavioral classes
-* CPU-oriented inference optimization
+- Real-time webcam processing
+- MediaPipe-based feature extraction
+- CNN/ML classification pipeline
+- Multiple behavioral classes
+- CPU-oriented inference optimization
 
 `Python` · `TensorFlow` · `OpenCV` · `MediaPipe` · `Scikit-learn`
 
@@ -172,11 +179,11 @@ Conversational fitness assistant combining NLP intent classification with genera
 
 Worked on machine learning models for predicting YouTube advertisement views.
 
-* Built regression pipelines using Python and Scikit-learn
-* Performed feature engineering and exploratory data analysis
-* Compared ensemble learning approaches
-* Worked with Random Forest and Gradient Boosting
-* Reported an R² score of **0.82** on the project dataset
+- Built regression pipelines using Python and Scikit-learn
+- Performed feature engineering and exploratory data analysis
+- Compared ensemble learning approaches
+- Worked with Random Forest and Gradient Boosting
+- Reported an R² score of **0.82** on the project dataset
 
 `Python` · `Scikit-learn` · `Pandas` · `NumPy`
 
@@ -184,36 +191,39 @@ Worked on machine learning models for predicting YouTube advertisement views.
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
-Lovely Professional University
+### B.Tech — Computer Science & Engineering
+
+**Lovely Professional University**  
 **2022 – 2026**
 
-**12th — Science**
-Tirumala Junior College, Rajahmundry
+### 12th — Science
+
+**Tirumala Junior College, Rajahmundry**  
 **78%**
 
-**10th — Science**
-DR K.K.R. Gowtham E.M. School, Rajahmundry
+### 10th — Science
+
+**DR K.K.R. Gowtham E.M. School, Rajahmundry**  
 **98%**
 
 ---
 
 ## 📜 Selected Certifications
 
-* **Exploratory Data Analysis for Machine Learning** — IBM
-* **NLP with Classification and Vector Spaces** — DeepLearning.AI
-* **Algorithms on Strings** — University of California San Diego
-* **Approximation Algorithms & Linear Programming** — University of Colorado Boulder
-* **Introduction to Programming Using Java** — LearnQuest
+- **Exploratory Data Analysis for Machine Learning** — IBM
+- **NLP with Classification and Vector Spaces** — DeepLearning.AI
+- **Algorithms on Strings** — University of California San Diego
+- **Approximation Algorithms & Linear Programming** — University of Colorado Boulder
+- **Introduction to Programming Using Java** — LearnQuest
 
 ---
 
 ## 🏆 Community & Activities
 
-* 🌐 Co-organized **Building with AI** developer meetup with Google for Developers
-* 👥 Helped grow the developer community to **1,500+ members**
-* 💡 Participated in **Code Beyond Limits** by TFUG
-* ✍️ Write about **AI, LLMs, memory architectures, and emerging AI research**
+- 🌐 Co-organized **Building with AI** developer meetup with Google for Developers
+- 👥 Helped grow the developer community to **1,500+ members**
+- 💡 Participated in **Code Beyond Limits** by TFUG
+- ✍️ Write about **AI, LLMs, memory architectures, and emerging AI research**
 
 ---
 
@@ -221,11 +231,37 @@ DR K.K.R. Gowtham E.M. School, Rajahmundry
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankeerth28&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Sankeerth28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="Sankeerth's GitHub Stats"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankeerth28&theme=tokyo-night&hide_border=true" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Sankeerth28&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sankeerth28&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Sankeerth28/Sankeerth28/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
@@ -253,24 +289,3 @@ Software Engineering
 ├── FastAPI
 ├── Docker
 └── APIs & Backend Systems
-```
-
----
-
-## 📫 Let's Connect
-
-I'm interested in opportunities where I can work on **Machine Learning, Generative AI, NLP, and AI-powered products**.
-
-📧 **[sankeerth2004@gmail.com](mailto:sankeerth2004@gmail.com)**
-
-💼 [LinkedIn](https://www.linkedin.com/in/sankeerthnaidu)
-
-🐙 [GitHub](https://github.com/Sankeerth28)
-
----
-
-<div align="center">
-
-### *Build. Measure. Learn. Repeat.*
-
-</div>
